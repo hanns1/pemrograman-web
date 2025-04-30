@@ -1,0 +1,53 @@
+   body {
+    font-family: Arial, sans-serif;
+}
+
+/* Judul laporan */
+h1 {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* Nama Kamu */
+.nama {
+    background-color: blue; /* Biru */
+    color: yellow; /* Kuning */
+    padding: 5px;
+}
+
+/* NIM Kamu */
+#nim {
+    color: blue; /* Biru */
+}
+
+/* Paragraf pertama */
+p {
+    font-size: 15px;
+    text-align: center;
+}
+
+/* Highlight kata "ipsum" di paragraf pertama */
+p span {
+    background-color: blue; /* Biru */
+    color: black; /* Putih */
+    font-style: italic;
+    padding: 2px 4px;
+}
+
+/* Paragraf kedua */
+.teks2 {
+    font-size: 15px;
+    text-align: center;
+}
+
+/* Highlight kata "amet" di paragraf kedua */
+.teks2 span {
+    background-color: yellow; /* Kuning */
+    font-style: italic;
+    padding: 2px 4px;
+}
+
+/* Link ke YouTube */
+h3 a {
+    color: black;
+}
